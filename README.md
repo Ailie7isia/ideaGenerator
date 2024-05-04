@@ -1,4 +1,4 @@
-# flutter_application_1
+# IDEA GENERATOR
 
 A new Flutter project.
 
